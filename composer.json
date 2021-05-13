@@ -8,7 +8,8 @@
         "spiral/filters": "^2.7",
         "psr/log": "^1.1",
         "psr/http-message": "^1.0",
-        "spiral/framework": "^2.7"
+        "spiral/framework": "^2.7",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
